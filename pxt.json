@@ -1,0 +1,30 @@
+{
+    "name": "Invisible Maze Escape Room",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.58",
+        "tag": "v2.0.58",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/010286efe8ce034a83ea60ee9c4663378a171228",
+        "target": "2.0.58",
+        "pxt": "11.3.62",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
